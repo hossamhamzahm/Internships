@@ -21,7 +21,7 @@ Some of the internships may require a technical interview
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[ARPU PLUS](https://wuzzuf.net/internship/wzzGmxTqK2eV-IT-Intern-ARPUPLUS-Giza-Egypt?o=4&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) |Giza - Egypt| Open - IT Intern - <b>Paid Intern</b>|
-|[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|
+|[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>| Done  
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |
