@@ -52,7 +52,7 @@ Some of the internships may require a technical interview
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> - Requires 3rd year computer science engineering students | Done
 |[Itida](https://www.itida.gov.eg/Arabic/Programs/Summer-Internships/Pages/default.aspx)| Cairo |Open - <b>Paid training</b> - Software development training - Deadline: 20/6/2022 | Done
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern | Done
-|[Magdsoft](https://wuzzuf.net/internship/z3ZGjrCNWpxS-PHP-Developer---intern-Magdsoft-Cairo-Egypt?o=1&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
+|[Magdsoft](https://wuzzuf.net/internship/z3ZGjrCNWpxS-PHP-Developer---intern-Magdsoft-Cairo-Egypt?o=1&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern | Done
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Nichepharma](https://wuzzuf.net/internship/62geuIXjM3eq-UIUX-Designer-nichepharma-Giza-Egypt) | Sheikh Zayed, Giza | Open - <b> Paid Intern </b> |
