@@ -104,6 +104,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
 |[Easy System](http://eysmt.com/)| Cairo | Closed |
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
+|[EgSA](https://egsa-space-technology-portal.com/?AspxAutoDetectCookieSupport=1)| cairo | Closed |
 |[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
 |[EYouth](https://www.linkedin.com/company/eyouth/?originalSubdomain=eg) | Giza |Closed|
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
@@ -111,6 +112,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[HackerRank Software intern](https://www.hackerrank.com/careers#app) | Remote |Closed|
 |[Hoopoe Digital](https://hoopoe.digital/?fbclid=IwAR3HCHVXSVdM2Z91hfy6z0gOI3OIb1PodTyXpiJQxdhJ7iSfcvNE8JP1Jmw) | Remote | Closed |
 |[Instabug](https://www.instabug.com/?fbclid=IwAR2PbAFqKTCb7NSN_kMxPFC5JFjjX59NtfWfDIha1GPX__4dsyWLtDp4Elo)| Cairo | Closed |
+|[IBM Technical support intern](https://www.ibm.com/employment/) | Cairo |Closed |
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
